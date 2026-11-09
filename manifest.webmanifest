@@ -1,13 +1,1 @@
-{
-  "id": "./",
-  "name": "SPEAK·PATTERN — 실전 영어 학습 스튜디오",
-  "short_name": "SpeakPattern",
-  "description": "9,145개의 여행·학회·연구 영어 표현으로 공부하는 학습 사이트",
-  "lang": "ko-KR",
-  "start_url": "./",
-  "scope": "./",
-  "display": "standalone",
-  "background_color": "#f6f7fb",
-  "theme_color": "#192a56",
-  "icons": [{"src":"./assets/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"./assets/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]
-}
+{"name":"Chunk Reading Studio — 영어 직독직해 학습","short_name":"Chunk Studio","description":"청크 직독직해 · 146편 읽기 · 낭독 · 학술 영어","lang":"ko","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#f4f7f9","theme_color":"#102a43","icons":[{"src":"assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}

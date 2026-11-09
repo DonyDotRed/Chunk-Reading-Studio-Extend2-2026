@@ -1,0 +1,147 @@
+﻿ID,Track,Title,Korean Title,Sentences,Chunks,Vocabulary,Words,Markdown File
+01,core,The Lemonade Stand That Lost Money,돈을 잃은 레모네이드 가게,25,100,16,316,01_The_Lemonade_Stand_That_Lost_Money.md
+02,core,Thirty Days of Small Starts,작은 시작의 30일,30,98,12,285,02_Thirty_Days_of_Small_Starts.md
+03,core,My Grandfather's Repair Shop,할아버지의 수리점,25,81,12,267,03_My_Grandfathers_Repair_Shop.md
+04,core,A Letter to My Younger Self,어린 나에게 보내는 편지,32,87,12,261,04_A_Letter_to_My_Younger_Self.md
+05,core,The Night Before the Market,장터 전날 밤,24,74,12,256,05_The_Night_Before_the_Market.md
+06,core,Salary or Startup?,월급이냐 창업이냐?,33,77,12,254,06_Salary_or_Startup.md
+07,core,The Fox Who Waited for a Perfect Plan,완벽한 계획을 기다린 여우,30,93,12,303,07_The_Fox_Who_Waited_for_a_Perfect_Plan.md
+08,core,Why I Stopped Saying Someday,"내가 ""언젠가""라는 말을 그만둔 이유",31,97,12,296,08_Why_I_Stopped_Saying_Someday.md
+09,core,How to Talk to Your First Customer,첫 손님과 대화하는 법,29,84,12,278,09_How_to_Talk_to_Your_First_Customer.md
+10,core,The Ten-Dollar Experiment,10달러 실험,31,100,12,318,10_The_Ten-Dollar_Experiment.md
+11,core,Every Complaint Is a Clue,모든 불평은 단서다,31,120,12,356,11_Every_Complaint_Is_a_Clue.md
+12,core,The Bakery a Neighborhood Built,동네가 만든 빵집,29,98,12,325,12_The_Bakery_a_Neighborhood_Built.md
+13,core,Forty Years Behind the Counter,계산대 뒤의 40년,27,103,12,337,13_Forty_Years_Behind_the_Counter.md
+14,core,The Broken Bicycle Business,고장 난 자전거 사업,30,107,12,309,14_The_Broken_Bicycle_Business.md
+15,core,Walking Into the Room Anyway,그래도 방 안으로 걸어 들어가기,36,112,12,333,15_Walking_Into_the_Room_Anyway.md
+16,core,Where Good Ideas Come From,좋은 아이디어는 어디서 오는가,29,108,12,347,16_Where_Good_Ideas_Come_From.md
+17,core,Two Ways to Spend a Saturday,토요일을 보내는 두 가지 방법,26,97,12,314,17_Two_Ways_to_Spend_a_Saturday.md
+18,core,The Customer Who Said No Three Times,세 번 거절한 손님,29,108,12,362,18_The_Customer_Who_Said_No_Three_Times.md
+19,core,The Student Council Fundraiser,학생회 모금 행사,24,96,12,301,19_The_Student_Council_Fundraiser.md
+20,core,What a Notebook Taught Me,공책 한 권이 가르쳐 준 것,29,101,12,327,20_What_a_Notebook_Taught_Me.md
+21,core,If I Had Asked Sooner,조금 더 일찍 물었더라면,29,111,12,353,21_If_I_Had_Asked_Sooner.md
+22,core,The Myth of the Overnight Success,하룻밤 성공이라는 신화,29,113,12,378,22_The_Myth_of_the_Overnight_Success.md
+23,core,Should Schools Teach Entrepreneurship?,학교는 창업 교육을 해야 하는가?,27,137,12,398,23_Should_Schools_Teach_Entrepreneurship.md
+24,core,Failure Is Just Data,실패는 데이터일 뿐이다,33,151,12,453,24_Failure_Is_Just_Data.md
+25,core,The Real Price of a Cup of Coffee,커피 한 잔의 진짜 가격,26,123,12,374,25_The_Real_Price_of_a_Cup_of_Coffee.md
+26,core,Reading the Numbers,숫자 읽기,27,127,12,366,26_Reading_the_Numbers.md
+27,core,"Trust Is Slow, Then Sudden","신뢰는 느리게, 그러다 갑자기",35,133,12,421,27_Trust_Is_Slow_Then_Sudden.md
+28,core,"Small Teams, Big Problems","작은 팀, 큰 문제",39,145,12,407,28_Small_Teams_Big_Problems.md
+29,core,A Speech to New Graduates,졸업생들에게 보내는 연설,37,121,12,365,29_A_Speech_to_New_Graduates.md
+30,core,What I Know Now,지금 내가 아는 것,37,155,12,448,30_What_I_Know_Now.md
+U01,university,Lessons from a Failed Lemonade Stand,실패한 레모네이드 가판대에서 얻은 교훈 (회고적 분석),29,188,12,606,U01_Lessons_from_a_Failed_Lemonade_Stand.md
+U02,university,"Small Actions, Durable Habits","작은 행동, 오래가는 습관 (연구는 첫 30일에 대해 무엇을 말하는가)",28,203,12,602,U02_Small_Actions_Durable_Habits.md
+U03,university,What Cannot Be Written Down,글로 적을 수 없는 것 (작은 수리점의 암묵지),32,206,12,601,U03_What_Cannot_Be_Written_Down.md
+U04,university,The Limits of Advice,조언의 한계 (확신의 정도와 근거의 일치),35,208,12,594,U04_The_Limits_of_Advice.md
+U05,university,Planning Under Uncertainty,불확실성 속에서 계획하기,37,201,12,593,U05_Planning_Under_Uncertainty.md
+U06,university,Security or Autonomy?,안정이냐 자율이냐? (월급과 창업의 비교 논증),28,207,12,571,U06_Security_or_Autonomy.md
+U07,university,Perfectionism and Delay,완벽주의와 미루기 (개념 분석),30,203,12,564,U07_Perfectionism_and_Delay.md
+U08,university,From Intention to Action,의도에서 행동으로 (실행 의도의 메커니즘),30,201,12,583,U08_From_Intention_to_Action.md
+U09,university,Interviewing Early Customers,초기 고객 인터뷰 (연구 방법 절 쓰기),29,195,12,577,U09_Interviewing_Early_Customers.md
+U10,university,Testing Ideas Cheaply,아이디어를 싸게 시험하기 (정량적 결과 보고),28,190,12,551,U10_Testing_Ideas_Cheaply.md
+U11,university,Complaints as Data,데이터로서의 불평 (분류 체계 세우기),27,196,12,552,U11_Complaints_as_Data.md
+U12,university,Co-Creation in a Neighborhood Business,동네 가게의 공동 창조 (사례 연구 구조),27,205,12,567,U12_Co-Creation_in_a_Neighborhood_Business.md
+U13,university,Reporting What Others Say,남의 말을 전하는 법 (보고 동사와 출처 표시),31,197,12,570,U13_Reporting_What_Others_Say.md
+U14,university,Signals of Trust in Used Goods,중고품 시장의 신뢰 신호 (정보 비대칭과 신호 보내기),30,213,12,564,U14_Signals_of_Trust_in_Used_Goods.md
+U15,university,Anxiety and Performance,불안과 수행 (정의와 연구 종합),26,208,12,560,U15_Anxiety_and_Performance.md
+U16,university,Where Ideas Come From,아이디어는 어디서 오는가 (세 갈래 연구의 종합),25,202,12,550,U16_Where_Ideas_Come_From.md
+U17,university,Planning Versus Experimentation,계획 대 실험 (인과 논리와 효과 논리의 비교),29,213,12,570,U17_Planning_Versus_Experimentation.md
+U18,university,Persistence and Its Limits,끈기와 그 한계 (서사를 논증으로),30,204,12,558,U18_Persistence_and_Its_Limits.md
+U19,university,Evaluating a Fundraiser,모금 행사 평가 (평가 보고서와 권고),30,202,12,557,U19_Evaluating_a_Fundraiser.md
+U20,university,Observation as a Habit of Mind,사고 습관으로서의 관찰 (관찰에서 일반화로),28,194,12,550,U20_Observation_as_a_Habit_of_Mind.md
+U21,university,Counterfactual Thinking,"반사실적 사고 (""그때 ~했더라면""의 심리학)",26,201,12,555,U21_Counterfactual_Thinking.md
+U22,university,Survivorship Bias and Success Stories,생존자 편향과 성공담 (논리적 오류 분석),28,205,12,551,U22_Survivorship_Bias_and_Success_Stories.md
+U23,university,Entrepreneurship in the Curriculum,교육과정 속의 창업 교육 (정책 논증),27,215,12,548,U23_Entrepreneurship_in_the_Curriculum.md
+U24,university,Failure as Evidence,증거로서의 실패 (가설 검증의 논리),27,197,12,552,U24_Failure_as_Evidence.md
+U25,university,The Unit Economics of a Café,카페의 단위 경제 (고밀도 명사화),28,206,12,541,U25_The_Unit_Economics_of_a_Cafe.md
+U26,university,Interpreting Small Data,작은 데이터 해석하기 (도표 서술과 해석상 주의점),30,207,12,547,U26_Interpreting_Small_Data.md
+U27,university,The Asymmetry of Trust,신뢰의 비대칭 (이론적 설명),26,209,12,555,U27_The_Asymmetry_of_Trust.md
+U28,university,Communication in Small Teams,작은 팀의 소통 (사례 분석과 권고),27,211,12,557,U28_Communication_in_Small_Teams.md
+U29,university,The Rhetoric of Commencement Speeches,졸업 연설의 수사학 (수사 분석),27,217,12,546,U29_The_Rhetoric_of_Commencement_Speeches.md
+U30,university,A Synthesis,종합 (증거가 말해 줄 수 있는 것과 없는 것),25,222,12,595,U30_A_Synthesis.md
+D01,domain,Eye Lens Dosimetry at Nuclear Power Plants,원자력발전소의 수정체 선량 평가 (서론: 연구 영역 설정),16,153,12,427,D01_Eye_Lens_Dosimetry_at_Nuclear_Power_Plants.md
+D02,domain,Glycemic Metrics Beyond HbA1c,당화혈색소 너머의 혈당 지표 (서론: 연구 공백 제시),17,133,12,391,D02_Glycemic_Metrics_Beyond_HbA1c.md
+D03,domain,Small Embedding Models for Domain Retrieval,도메인 검색을 위한 소형 임베딩 모델 (서론: 공백 점유),20,139,12,374,D03_Small_Embedding_Models_for_Domain_Retrieval.md
+D04,domain,Calibration Traceability in Personal Dosimetry,개인 선량 측정의 교정 소급성 (방법: 측정 체계 기술),15,120,12,364,D04_Calibration_Traceability_in_Personal_Dosimetry.md
+D05,domain,Defining a Retrospective Cohort,후향적 코호트 정의하기 (방법: 대상자 선정과 변수 정의),13,133,12,379,D05_Defining_a_Retrospective_Cohort.md
+D06,domain,Designing a Retrieval Evaluation Protocol,검색 평가 프로토콜 설계 (방법: 벤치마크 구축과 평가 절차),16,133,12,354,D06_Designing_a_Retrieval_Evaluation_Protocol.md
+D07,domain,Reporting Doses Near Detection Limits,검출 한계 근처의 선량 보고 (결과: 중도절단 자료와 불확도),15,108,12,326,D07_Reporting_Doses_Near_Detection_Limits.md
+D08,domain,Reporting Clinical Associations,임상적 연관성 보고 (결과: 효과 크기와 신뢰구간),13,99,12,309,D08_Reporting_Clinical_Associations.md
+D09,domain,Reporting Model Comparisons,모델 비교 결과 보고 (결과: 표 서술과 차이의 해석),13,89,12,277,D09_Reporting_Model_Comparisons.md
+D10,domain,Interpreting the Principal Findings,주요 결과의 해석 (논의: 해석과 실무적 함의),15,144,12,395,D10_Interpreting_the_Principal_Findings.md
+D11,domain,Comparing Findings with Prior Studies,선행 연구와의 비교 (논의: 일치와 불일치의 설명),14,129,12,329,D11_Comparing_Findings_with_Prior_Studies.md
+D12,domain,Limitations and Future Work,한계와 후속 연구 (논의: 한계 진술과 연구 제안),15,129,12,328,D12_Limitations_and_Future_Work.md
+D13,domain,Writing a Structured Abstract,구조화 초록 쓰기 (연구 전달: 초록·하이라이트·키워드),15,90,12,270,D13_Writing_a_Structured_Abstract.md
+D14,domain,Titles Keywords and Cover Letters,제목·키워드·투고 서신 (연구 전달: 편집자에게 보내는 편지),14,87,12,248,D14_Titles_Keywords_and_Cover_Letters.md
+D15,domain,Responding to Reviewers,심사 의견에 답하기 (연구 전달: 심사 답변서),21,131,12,350,D15_Responding_to_Reviewers.md
+D16,domain,A Conference Presentation Script,학회 발표 원고 (연구 전달: 말하기를 위한 글),30,134,12,421,D16_A_Conference_Presentation_Script.md
+D17,domain,Explaining Research to Non-Specialists,비전문가에게 연구 설명하기 (연구 전달: 쉬운 말 요약),16,87,12,280,D17_Explaining_Research_to_Non-Specialists.md
+D18,domain,The Research Article as Argument,논증으로서의 연구 논문 (Domain Track 종합),23,174,12,477,D18_The_Research_Article_as_Argument.md
+C01,conference,Opening and Signposting,"발표 시작, 개요, 전환, 마무리",37,37,37,326,C01_Opening_and_Signposting.md
+C02,conference,Describing Slides and Data,"그래프·표 설명하기, 숫자와 단위 읽기",28,28,16,287,C02_Describing_Slides_and_Data.md
+C03,conference,Understanding and Clarifying Questions,"질문 알아듣기, 되묻기, 시간 벌기",39,39,39,494,C03_Understanding_and_Clarifying_Questions.md
+C04,conference,Answering Questions,"답변하기: 동의, 부분 동의, 모를 때, 범위 밖 질문, 비판적 질문",35,35,35,482,C04_Answering_Questions.md
+C05,conference,Asking Questions from the Floor,"청중으로 질문하기, 후속 질문, 발표 후 개별 대화",36,36,28,388,C05_Asking_Questions_from_the_Floor.md
+C06,conference,Chairing a Session,"좌장: 세션 시작, 발표자 소개, 시간 관리, 질의응답 진행, 마무리",48,48,34,592,C06_Chairing_a_Session.md
+C07,conference,Poster Session Conversations,"포스터 세션: 말 걸기, 30초·2분 설명, 상대에 맞춰 조절하기, 마무리",40,40,28,464,C07_Poster_Session_Conversations.md
+C08,conference,Networking and Follow-up,"휴식 시간 대화, 한 문장 연구 소개, 대화 마무리, 후속 이메일",49,49,40,546,C08_Networking_and_Follow-up.md
+V01,variety,The Last Train to Salzburg,잘츠부르크행 마지막 기차 (단편 소설),42,124,12,348,V01_The_Last_Train_to_Salzburg.md
+V02,variety,The Gettysburg Address,"게티즈버그 연설 (에이브러햄 링컨, 1863)",13,90,12,271,V02_The_Gettysburg_Address.md
+V03,variety,Why Your Ears Pop on a Plane,비행기에서 귀가 먹먹해지는 이유 (대중 과학),23,128,12,361,V03_Why_Your_Ears_Pop_on_a_Plane.md
+V04,variety,Library Opens 24-Hour Study Room,"도서관, 24시간 열람실 개방 (가상 뉴스 기사)",15,78,12,219,V04_Library_Opens_24-Hour_Study_Room.md
+V05,variety,A Letter from a First Job,첫 직장에서 보내는 편지 (편지),20,91,12,275,V05_A_Letter_from_a_First_Job.md
+V06,variety,The Road Not Taken,"가지 않은 길 (로버트 프로스트, 1916)",7,45,12,144,V06_The_Road_Not_Taken.md
+V07,variety,The Wrong Hotel,엉뚱한 호텔 (라디오 드라마),29,79,12,199,V07_The_Wrong_Hotel.md
+V08,variety,The Power of Small Questions,작은 질문의 힘 (강연),23,75,12,221,V08_The_Power_of_Small_Questions.md
+V09,variety,The Last Paragraph of On the Origin of Species,"《종의 기원》 마지막 문단 (찰스 다윈, 1859)",4,75,12,219,V09_The_Last_Paragraph_of_On_the_Origin_of_Species.md
+V10,variety,Lost in Lisbon,리스본에서 길을 잃다 (여행 글),15,88,12,245,V10_Lost_in_Lisbon.md
+V11,variety,The Borrowed Umbrella,빌린 우산 (단편 소설),22,86,12,248,V11_The_Borrowed_Umbrella.md
+V12,variety,The Man in the Arena,"경기장에 선 사람 (시어도어 루스벨트, 1910)",5,47,12,140,V12_The_Man_in_the_Arena.md
+V13,variety,What a Fever Is For,열은 무엇을 위해 나는가 (대중 과학),19,114,12,320,V13_What_a_Fever_Is_For.md
+V14,variety,City Tests Driverless Buses,"시, 자율주행 버스 시범 운행 (가상 뉴스)",15,93,12,259,V14_City_Tests_Driverless_Buses.md
+V15,variety,Diary of a Conference Week,학회 주간 일기 (일기),27,88,12,256,V15_Diary_of_a_Conference_Week.md
+V16,variety,Sonnet 18,"소네트 18번 (윌리엄 셰익스피어, 1609)",4,42,12,114,V16_Sonnet_18.md
+V17,variety,The Night Shift,야간 근무 (대화극),19,76,12,195,V17_The_Night_Shift.md
+V18,variety,Why We Misjudge Risk,우리는 왜 위험을 잘못 판단하는가 (강연),22,91,12,242,V18_Why_We_Misjudge_Risk.md
+V19,variety,The Chemical History of a Candle,"양초의 화학사 (마이클 패러데이, 1861) 발췌",7,70,12,240,V19_The_Chemical_History_of_a_Candle.md
+V20,variety,A Morning Market in Hanoi,하노이의 아침 시장 (여행 글),14,83,12,226,V20_A_Morning_Market_in_Hanoi.md
+V21,variety,The Interpreter,통역사 (단편 소설),18,97,12,286,V21_The_Interpreter.md
+V22,variety,Second Inaugural Address Closing,"두 번째 취임 연설 결말부 (에이브러햄 링컨, 1865)",5,49,12,160,V22_Second_Inaugural_Address_Closing.md
+V23,variety,Seeing the Invisible,보이지 않는 것을 보기: 방사선은 어떻게 측정하는가 (대중 과학),21,144,12,372,V23_Seeing_the_Invisible.md
+V24,variety,New Study Questions Popular Diet Claim,"새 연구, 인기 식이요법 주장에 의문 제기 (가상 뉴스)",14,103,12,277,V24_New_Study_Questions_Popular_Diet_Claim.md
+V25,variety,A Letter to a Future Colleague,미래의 동료에게 보내는 편지 (편지),19,96,12,278,V25_A_Letter_to_a_Future_Colleague.md
+V26,variety,Two Poems,"시 두 편 (오리지널: 〈Background〉, 〈Field Notes〉)",10,60,12,163,V26_Two_Poems.md
+V27,variety,The Peer Review,동료 심사 (대화극),26,92,12,235,V27_The_Peer_Review.md
+V28,variety,What Machines Cannot Read,기계가 읽지 못하는 것 (강연),21,82,12,233,V28_What_Machines_Cannot_Read.md
+V29,variety,On a Piece of Chalk,"분필 한 조각에 대하여 (토머스 헉슬리, 1868) 발췌",6,55,12,161,V29_On_a_Piece_of_Chalk.md
+V30,variety,What Travel Teaches,여행이 가르쳐 주는 것 (여행 에세이 · Variety Track 마무리),14,101,12,286,V30_What_Travel_Teaches.md
+V31,variety,Seeing and Observing,"본다는 것과 관찰한다는 것 (아서 코넌 도일, 〈보헤미아 왕국 스캔들〉, 1891) 발췌",16,53,12,146,V31_Seeing_and_Observing.md
+V32,variety,Nothing to Fear,"두려워할 것은 두려움 그 자체뿐 (프랭클린 D. 루스벨트, 1933) 발췌",7,54,12,154,V32_Nothing_to_Fear.md
+V33,variety,Reading the Ice,얼음을 읽다 (과학자 인터뷰),18,80,12,215,V33_Reading_the_Ice.md
+V34,variety,The Missing Sample,사라진 시료 (미스터리 단편),20,75,12,210,V34_The_Missing_Sample.md
+V35,variety,Should Homework Be Banned?,숙제를 금지해야 할까? (토론),18,91,12,236,V35_Should_Homework_Be_Banned.md
+V36,variety,A Year in a Honeybee Colony,꿀벌 군집의 한 해 (다큐멘터리 내레이션),17,89,12,248,V36_A_Year_in_a_Honeybee_Colony.md
+V37,variety,How to Bake a Simple Loaf,간단한 빵 한 덩이 굽기 (절차 안내문),14,72,12,225,V37_How_to_Bake_a_Simple_Loaf.md
+V38,variety,Morning News Roundup,아침 뉴스 브리핑 (라디오 뉴스),15,76,12,203,V38_Morning_News_Roundup.md
+V39,variety,The Tortoise and the Hare,"거북이와 토끼 (우화, 새로 다시 씀)",20,73,12,220,V39_The_Tortoise_and_the_Hare.md
+V40,variety,My Grandmother's Kitchen,할머니의 부엌 (회고록),14,76,12,230,V40_My_Grandmothers_Kitchen.md
+V41,variety,The Gift of the Magi Opening,"크리스마스 선물 첫머리 (오 헨리, 1905) 발췌",13,52,12,153,V41_The_Gift_of_the_Magi_Opening.md
+V42,variety,On Womens Right to Vote,"여성의 투표권에 대하여 (수전 B. 앤서니, 1873) 첫머리",5,60,12,163,V42_On_Womens_Right_to_Vote.md
+V43,variety,Why We Sleep Badly in Hospitals,병원에서 잠을 잘 못 자는 이유 (연구자 인터뷰),21,103,12,256,V43_Why_We_Sleep_Badly_in_Hospitals.md
+V44,variety,The Silent Alarm,울리지 않은 경보 (미스터리 단편),27,111,12,290,V44_The_Silent_Alarm.md
+V45,variety,Should City Centers Ban Cars?,도심에서 자동차를 금지해야 할까? (토론),20,101,12,269,V45_Should_City_Centers_Ban_Cars.md
+V46,variety,Night on a Coral Reef,산호초의 밤 (다큐멘터리 내레이션),20,102,12,282,V46_Night_on_a_Coral_Reef.md
+V47,variety,Laboratory Safety Briefing,실험실 안전 교육 브리핑 (절차 안내문),22,95,12,250,V47_Laboratory_Safety_Briefing.md
+V48,variety,Weather and Traffic Update,날씨·교통 속보 (라디오 뉴스),13,77,12,202,V48_Weather_and_Traffic_Update.md
+V49,variety,The Fisherman and His Wife,"어부와 그의 아내 (옛이야기, 새로 다시 씀)",25,103,12,303,V49_The_Fisherman_and_His_Wife.md
+V50,variety,The Teacher Who Waited,기다려 준 선생님 (회고록),26,109,12,292,V50_The_Teacher_Who_Waited.md
+V51,variety,To Build a Fire Opening,"불을 지피다 첫머리 (잭 런던, 1908) 발췌",12,67,12,224,V51_To_Build_a_Fire_Opening.md
+V52,variety,Ask Not,"묻지 마십시오 (존 F. 케네디, 1961) 발췌",6,45,12,152,V52_Ask_Not.md
+V53,variety,Can We Trust a Machine's Answer?,기계의 답을 믿어도 될까? (AI 연구자 인터뷰),23,103,12,280,V53_Can_We_Trust_a_Machines_Answer.md
+V54,variety,The Last Data Point,마지막 데이터 한 점 (미스터리 단편),25,94,12,289,V54_The_Last_Data_Point.md
+V55,variety,Should AI Help Write Scientific Papers?,AI가 과학 논문 작성을 도와도 될까? (토론),24,104,12,240,V55_Should_AI_Help_Write_Scientific_Papers.md
+V56,variety,The Long Journey of Sunlight,햇빛의 긴 여정 (다큐멘터리 내레이션),14,90,12,271,V56_The_Long_Journey_of_Sunlight.md
+V57,variety,Emergency Evacuation Announcement,비상 대피 안내 방송 (안내문),20,68,12,196,V57_Emergency_Evacuation_Announcement.md
+V58,variety,Science News in Brief,과학 뉴스 단신 (라디오 뉴스),12,84,12,213,V58_Science_News_in_Brief.md
+V59,variety,The Algorithm and the Gardener,알고리즘과 정원사 (현대 우화),19,105,12,282,V59_The_Algorithm_and_the_Gardener.md
+V60,variety,Looking Back on a Thousand Readings,천 번의 낭독을 돌아보며 (회고록 · Variety Track 2권 마무리),17,96,12,269,V60_Looking_Back_on_a_Thousand_Readings.md
