@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#192a56">
+  <meta name="description" content="여행·학회·연구 영어 9,145문장 학습: 상황별 학습, 패턴 검색, TTS, 플래시카드, 퀴즈, 간격 복습">
+  <meta name="color-scheme" content="light dark">
+  <title>SPEAK·PATTERN | 영어를 말하는 가장 실용적인 방법</title>
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./assets/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="./assets/icon-192.png">
+  <link rel="stylesheet" href="./styles.css">
+  <script defer src="./data/data.js"></script>
+  <script defer src="./app.js"></script>
+</head>
+<body>
+  <div id="login-screen" class="login-screen">
+    <div class="login-deco" aria-hidden="true"><span>Speak.</span><span>Practice.</span><span>Connect.</span></div>
+    <form id="login-form" class="login-card" autocomplete="off">
+      <div class="brand-icon big">S<span>·</span>P</div>
+      <span class="eyebrow">YOUR DAILY ENGLISH COMPANION</span>
+      <h1>말하는 자신감을<br>한 문장씩.</h1>
+      <p>여행부터 국제학회, 전문 연구 토론까지.<br>Vol.1–3 전체 콘텐츠를 하나의 학습 공간에서.</p>
+      <label for="login-password">학습 공간 비밀번호</label>
+      <div class="login-input-wrap"><input id="login-password" type="password" placeholder="비밀번호 입력" required autocomplete="current-password" aria-describedby="login-message"><button type="button" id="password-visibility" aria-label="비밀번호 표시 전환">보기</button></div>
+      <div id="login-message" role="alert" aria-live="polite"></div>
+      <button type="submit" class="btn btn-primary btn-full login-submit">학습 시작하기 →</button>
+      <div class="login-foot"><span>🔒 간단한 브라우저 접근 제한</span><span>개인 학습 기록은 이 기기에 저장</span></div>
+    </form>
+  </div>
+  <div id="app-shell" class="app-shell" hidden>
+    <aside id="sidebar" class="sidebar" aria-label="주 메뉴">
+      <div class="sidebar-brand"><div class="brand-icon">S<span>·</span>P</div><div><b>SPEAK<span>·</span>PATTERN</b><small>ENGLISH LEARNING STUDIO</small></div><button class="icon-btn close-sidebar" data-action="menu" aria-label="메뉴 닫기">✕</button></div>
+      <div class="sidebar-scroll">
+        <p class="sidebar-title">LEARNING</p>
+        <nav id="main-nav" class="main-nav">
+          <button data-nav="dashboard" class="nav-item active"><span class="nav-glyph">⌂</span><span>대시보드</span></button>
+          <button data-nav="library" class="nav-item"><span class="nav-glyph">▤</span><span>상황별 문장</span></button>
+          <button data-nav="patterns" class="nav-item"><span class="nav-glyph">⌘</span><span>패턴 사전</span></button>
+          <button data-nav="flashcards" class="nav-item"><span class="nav-glyph">▣</span><span>암기 카드</span></button>
+          <button data-nav="quiz" class="nav-item"><span class="nav-glyph">◎</span><span>실전 퀴즈</span></button>
+          <button data-nav="review" class="nav-item"><span class="nav-glyph">↻</span><span>복습하기</span><span id="review-nav-count" class="count-dot"></span></button>
+        </nav>
+        <p class="sidebar-title">MY SPACE</p>
+        <nav class="main-nav">
+          <button data-nav="stats" class="nav-item"><span class="nav-glyph">▥</span><span>학습 통계</span></button>
+          <button data-nav="guide" class="nav-item"><span class="nav-glyph">◇</span><span>학습 가이드</span></button>
+          <button data-nav="settings" class="nav-item"><span class="nav-glyph">⚙</span><span>설정 · 백업</span></button>
+        </nav>
+        <div class="sidebar-challenge"><span class="eyebrow">TODAY'S GOAL</span><div class="goal-label"><b id="sidebar-goal-text">0 / 20</b><span>표현</span></div><div class="progress-track"><div id="sidebar-goal-bar" class="progress-fill"></div></div><p>조금씩 매일, 실전에서 자연스럽게.</p></div>
+      </div>
+      <div class="sidebar-footer"><button data-action="logout" class="logout-btn">⇥ <span>잠금 / 로그아웃</span></button><small>Vol.1 · Vol.2 · Vol.3</small></div>
+    </aside>
+    <div id="menu-backdrop" class="menu-backdrop" data-action="menu"></div>
+    <div class="workspace">
+      <header class="topbar">
+        <div class="topbar-left"><button class="icon-btn menu-toggle" data-action="menu" aria-label="메뉴 열기">☰</button><div class="breadcrumbs"><span>MY LEARNING SPACE</span><strong id="current-page-title">대시보드</strong></div></div>
+        <div class="topbar-right"><span class="topbar-pill">◉ <span id="data-total">9,145</span> expressions</span><button class="mini-goal" data-nav="review" aria-label="복습하기">↻ <span id="topbar-due">0</span></button><button class="avatar" data-nav="settings" title="설정 열기" aria-label="설정 열기">SP</button></div>
+      </header>
+      <main class="main-content" id="main-content"><div id="view-content"></div></main>
+      <footer class="page-footer">SPEAK·PATTERN · 원본 3개 권의 데이터 기반 · 학습 기록은 내 브라우저에만 저장됩니다.</footer>
+    </div>
+    <nav class="mobile-nav" aria-label="모바일 빠른 메뉴"><button data-nav="dashboard">⌂<span>홈</span></button><button data-nav="library">▤<span>문장</span></button><button data-nav="flashcards">▣<span>암기</span></button><button data-nav="quiz">◎<span>퀴즈</span></button><button data-nav="review">↻<span>복습</span></button></nav>
+  </div>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <input id="import-file" type="file" accept=".json,application/json" hidden>
+  <script>window.addEventListener('load',()=>{if('serviceWorker' in navigator && /^https?:$/.test(location.protocol)){navigator.serviceWorker.register('./sw.js').catch(()=>{});}});</script>
+</body>
+</html>

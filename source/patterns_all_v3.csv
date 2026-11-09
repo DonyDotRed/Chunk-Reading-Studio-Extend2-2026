@@ -1,0 +1,140 @@
+﻿pattern_id,family,template,function_ko,tip_ko,added_in,count_vol1_2,count_vol3,count_total
+A01,요청·부탁,Could I get ___? / Can I have ___?,물건·서비스 요청 (가장 범용),식당·카페·호텔·기내 어디서나 통한다. 'Give me'는 명령으로 들린다. 정중도는 Could > Can.,1,105,14,119
+A02,요청·부탁,Could you ___ (for me)?,상대에게 행동을 부탁,Can you보다 부드럽다. 끝에 please를 붙이면 충분히 정중하다.,1,210,62,272
+A03,요청·부탁,Would you mind ___ing?,부담이 있는 부탁,"'No, not at all'이 수락이라는 점에 주의(부정으로 답해야 OK).",1,6,13,19
+A04,요청·부탁,I'd like (to) ___,원하는 것을 정중히 밝힘,예약·주문·변경·취소 등 서비스 창구의 기본 문형.,1,69,16,85
+A05,요청·부탁,"___, please.",최소 단위 요청,매표·주문처럼 맥락이 분명하면 명사+please만으로 충분하다.,1,22,4,26
+A06,요청·부탁,Would it be possible to ___? / Is it possible to ___?,규정 밖·예외 요청,"업그레이드, 시간 변경, 기한 연장 등 상대 재량이 필요한 부탁.",1,57,11,68
+A07,요청·부탁,I was wondering if ___,매우 조심스러운 부탁,처음 보는 연구자·이메일에서 부담을 낮춘다. 과거진행형이 정중함을 만든다.,1,12,1,13
+A08,요청·부탁,I need (to) ___,필요를 직접 밝힘,급할 때 가장 명확하다. 정중도는 낮으므로 사정 설명과 함께 쓴다.,1,26,0,26
+A09,요청·부탁,Can I ___? / Is it okay if I ___?,허락 구하기,사진 촬영·좌석·결제수단 등 가능 여부 확인.,1,68,6,74
+A10,요청·부탁,Do you mind if I ___?,상대를 배려한 허락,"'No, go ahead'가 허락이다.",1,18,7,25
+A11,요청·부탁,I'll have ___ / I'll take ___,주문·구매 확정,"have는 음식·음료, take는 물건·선택지에 자연스럽다.",1,25,1,26
+A12,요청·부탁,I'd prefer ___ / I'd rather ___,선호 표현,rather 뒤에는 동사원형. 선택지를 좁힐 때 유용.,1,17,3,20
+A13,요청·부탁,Could you help me with ___?,도움 요청,with 뒤에 명사. 기계·짐·서류 등.,1,6,4,10
+A14,요청·부탁,I'm looking for ___,찾는 물건·장소 설명,쇼핑·길찾기에서 대화를 여는 표준 문형.,1,19,7,26
+B01,정보 묻기,Where is ___? / Where can I ___?,위치 묻기,Where can I ~?는 '어디서 ~할 수 있나'로 활용 범위가 넓다.,1,100,11,111
+B02,정보 묻기,How do I get to ___? / How do I ___?,경로·사용법 묻기,기계·앱·절차 사용법에도 그대로 쓴다.,1,45,5,50
+B03,정보 묻기,Is there ___ (around here)?,존재 여부,"nearby, around here를 붙이면 근처.",1,190,90,280
+B04,정보 묻기,Do you have ___?,보유·재고 여부,가게·호텔·약국에서 가장 자주 쓰는 질문.,1,82,46,128
+B05,정보 묻기,What time ___? / When ___?,시각·시점,,1,93,25,118
+B06,정보 묻기,How long ___?,소요 시간·기간,,1,70,14,84
+B07,정보 묻기,How much ___?,가격·양,,1,89,18,107
+B08,정보 묻기,Which ___?,선택지 중 특정,플랫폼·게이트·노선·출구.,1,33,3,36
+B09,정보 묻기,Is this ___? / Does this ___?,예·아니오 확인,Does this go to ~?는 교통의 핵심 문장.,1,344,147,491
+B10,정보 묻기,Do I need to ___? / Do I have to ___?,의무·필요 여부,,1,168,42,210
+B11,정보 묻기,Is ___ included? / Does it come with ___?,포함 여부,,1,53,16,69
+B12,정보 묻기,What do you recommend? / Can you recommend ___?,추천 요청,,1,58,22,80
+B13,정보 묻기,Do you know ___? / Do you happen to know ___?,정보 보유 여부,happen to를 넣으면 더 부드럽다.,1,33,7,40
+B14,정보 묻기,Could you tell me ___?,간접 의문 (정중),어순 주의: Could you tell me where the gate is?,1,13,1,14
+B15,정보 묻기,What's the ___?,정보 항목 묻기,"와이파이 비밀번호, 환율, 응급번호 등.",1,102,24,126
+B16,정보 묻기,What if ___? / What happens if ___?,조건·예외 상황,,1,14,1,15
+C01,상황 설명·문제 제기,I have a reservation ___ / I booked ___,예약 사실 제시,under + 이름.,1,10,1,11
+C02,상황 설명·문제 제기,I'm here for ___ / I'm here to ___,방문 목적,입국심사·등록대·리셉션.,1,11,0,11
+C03,상황 설명·문제 제기,I'm heading to ___,목적지·이동 중,,1,2,0,2
+C04,상황 설명·문제 제기,There's a problem with ___ / ___ isn't working,고장·문제 신고,,1,109,17,126
+C05,상황 설명·문제 제기,I think there's a mistake ___,오류 지적 (완곡),I think로 시작해 공격적으로 들리지 않게 한다.,1,29,6,35
+C06,상황 설명·문제 제기,I lost ___ / I can't find ___ / I left ___,분실,left는 '어딘가에 두고 왔다'.,1,22,0,22
+C07,상황 설명·문제 제기,I have ___ / I feel ___,증상·상태,,1,53,0,53
+C08,상황 설명·문제 제기,I've been ___ since / for ___,지속 기간,"현재완료(진행). since + 시점, for + 기간.",1,7,0,7
+C09,상황 설명·문제 제기,It's my first time ___,처음임을 밝힘,도움과 설명을 이끌어내는 좋은 신호.,1,2,0,2
+C10,상황 설명·문제 제기,I'm afraid ___,나쁜 소식·거절의 완곡,,1,21,0,21
+C11,상황 설명·문제 제기,I don't eat ___ / I'm allergic to ___,식이 제한,,1,12,14,26
+C12,상황 설명·문제 제기,I'm just ___,가벼운 상태 설명,"just looking, just checking.",1,7,0,7
+C13,상황 설명·문제 제기,I'm running late / I missed ___,지연·놓침,,1,18,2,20
+C14,상황 설명·문제 제기,I was told ___,근거 제시,다른 직원·안내문 내용을 근거로 삼을 때.,1,8,2,10
+D01,의사소통 수리,"Sorry, could you say that again?",반복 요청,,1,22,1,23
+D02,의사소통 수리,"Sorry, I didn't catch ___",못 들었음,,1,15,2,17
+D03,의사소통 수리,"Just to confirm, ___? / Just to make sure ___",확인,숫자·시간·장소는 반드시 이 패턴으로 되짚는다.,1,29,1,30
+D04,의사소통 수리,What does ___ mean? / What do you mean by ___?,의미 확인,,1,40,27,67
+D05,의사소통 수리,Could you speak more slowly / write it down?,전달 방식 변경 요청,,1,14,0,14
+D06,의사소통 수리,So you mean ___? / Do you mean ___?,이해 확인 (되묻기),,1,37,2,39
+D07,의사소통 수리,Let me ___,시간 벌기·행동 예고,Let me check / think / see.,1,12,0,12
+D08,의사소통 수리,How do you say ___? / What do you call ___?,어휘·발음 묻기,,1,10,0,10
+E01,사교·반응,Nice to meet you / Good to see you,인사,"처음은 meet, 재회는 see.",1,7,0,7
+E02,사교·반응,What brings you ___? / Are you here for ___?,방문 목적 묻기,,1,8,0,8
+E03,사교·반응,How's ___ going? / How was ___?,안부·경험,,1,13,0,13
+E04,사교·반응,Where are you ___?,출신·소속·숙소,from / based / staying.,1,11,1,12
+E05,사교·반응,That sounds ___ / That's ___,반응·맞장구,,1,40,0,40
+E06,사교·반응,Have you ___? / Have you been to ___?,경험 묻기,,1,12,0,12
+E07,사교·반응,Thanks for ___,감사,for + 명사/동명사.,1,40,1,41
+E08,사교·반응,Sorry about ___ / Sorry to ___,사과,,1,26,0,26
+E09,사교·반응,"Excuse me, ___",말 걸기,,1,18,0,18
+E10,사교·반응,How about ___? / Shall we ___? / Why don't we ___?,제안,,1,22,0,22
+E11,사교·반응,It was great ___ / Have a ___,작별,,1,19,0,19
+E12,사교·반응,I'm ___ / I work for ___,자기소개,,1,16,0,16
+E13,사교·반응,I really enjoyed ___ / I loved ___,칭찬,,1,10,0,10
+F01,연구 소개·토론,I work on ___ / My research focuses on ___,연구 분야 소개,"work on=주제, work in=분야, work at/for=기관.",1,18,0,18
+F02,연구 소개·토론,We're currently ___ing,진행 상황,,1,9,0,9
+F03,연구 소개·토론,We used ___ to ___,방법 설명,,1,20,0,20
+F04,연구 소개·토론,We found that ___ / The main finding is ___,결과 제시,,1,9,0,9
+F05,연구 소개·토론,The results suggest ___ / It seems that ___,헤징 (단정 회피),"학회 영어의 핵심. prove 대신 suggest, indicate.",1,39,17,56
+F06,연구 소개·토론,Compared with ___ / ___ performed better than ___,비교,,1,19,0,19
+F07,연구 소개·토론,One limitation is ___,한계 인정,,1,20,3,23
+F08,연구 소개·토론,One possible explanation is ___ / This might be due to ___,해석·원인 추정,,1,12,0,12
+F09,연구 소개·토론,"In future work, we plan to ___ / Next, we'd like to ___",향후 계획,,1,10,0,10
+F10,연구 소개·토론,I agree ___ / That's a good point,동의,,1,13,1,14
+F11,연구 소개·토론,"I see what you mean, but ___",정중한 반대,,1,26,5,31
+F12,연구 소개·토론,It would be interesting to ___ / I wonder whether ___,제안·호기심,,1,21,9,30
+F13,연구 소개·토론,How did you ___?,방법 질문,,1,41,41,82
+F14,연구 소개·토론,Did you consider ___? / Have you tried ___?,대안 제시형 질문,,1,29,26,55
+F15,연구 소개·토론,Could you say more about ___?,부연 요청,,1,8,1,9
+F16,연구 소개·토론,"In our case, ___",자기 맥락 비교,,1,23,12,35
+F17,연구 소개·토론,This is based on ___,근거·출처,,1,9,1,10
+G01,발표 진행,Today I'd like to ___,발표 도입,,1,6,0,6
+G02,발표 진행,"Let me start with ___ / First, ___",시작·순서,,1,7,0,7
+G03,발표 진행,"Let's move on to ___ / Next, ___",전환,,1,9,0,9
+G04,발표 진행,"This slide shows ___ / As you can see, ___",시각자료 설명,,1,46,0,46
+G05,발표 진행,What this means is ___ / The key point here is ___,의미 해석,,1,27,0,27
+G06,발표 진행,As I mentioned ___ / Let me go back to ___,되돌아가기·연결,,1,7,0,7
+G07,발표 진행,To sum up ___ / The take-home message is ___,요약·결론,,1,7,0,7
+G08,발표 진행,Can everyone ___? / Is ___ working?,기술 점검,,1,13,0,13
+G09,발표 진행,"I'm running short on time, so ___",시간 관리,,1,6,0,6
+H01,질의응답,That's a good question / Thanks for the question,답변 도입,,1,7,0,7
+H02,질의응답,"If I understand correctly, ___",질문 재확인,,1,7,0,7
+H03,질의응답,"I'm not sure, but ___ / I don't have ___, but ___",모를 때,,1,6,0,6
+H04,질의응답,That's outside the scope of ___,범위 밖,,1,5,0,5
+H05,질의응답,I'd be happy to ___,후속 제안,,1,6,0,6
+H06,질의응답,I have a question about ___ / My question is ___,질문하기,,1,9,0,9
+H07,질의응답,Does that answer your question?,답변 마무리,,1,4,0,4
+H08,질의응답,"Can I just add ___? / If I may, ___",끼어들기·보충,,1,7,0,7
+J01,좌장·회의·협력,Our next speaker is ___,연사 소개,,1,3,0,3
+J02,좌장·회의·협력,We have time for ___,시간 안내,,1,5,0,5
+J03,좌장·회의·협력,Let's ___ (진행),진행 지시,,1,13,0,13
+J04,좌장·회의·협력,Could we ___? / Can we ___?,일정·회의 제안,,1,6,0,6
+J05,좌장·회의·협력,Would you be interested in ___?,협력 제안,,1,11,1,12
+J06,좌장·회의·협력,I'll ___ (send / follow up),후속 약속,,1,11,0,11
+K01,이메일·서면,I'm writing to ___ / I'm following up on ___,이메일 목적,,1,6,1,7
+K02,이메일·서면,Please find attached ___ / I've attached ___,첨부,,1,4,0,4
+K03,이메일·서면,I'd appreciate it if ___,정중한 요청 (서면),,1,3,0,3
+K04,이메일·서면,Thank you for your ___,이메일 감사,,1,5,0,5
+K05,이메일·서면,Looking forward to ___,기대·마무리,,1,6,0,6
+K06,이메일·서면,Apologies for ___,서면 사과,,1,4,0,4
+K07,이메일·서면,Could you let me know ___? / Please let me know ___,회신 요청,,1,8,1,9
+K08,이메일·서면,Would ___ work for you?,일정 제안,,1,7,0,7
+Z00,고정 표현,(고정 표현 · chunk),패턴으로 쪼개지 않고 통째로 외우는 관용 덩어리,"Keep the change, Here you go처럼 변형 없이 쓰이는 표현.",1,2481,2084,4565
+A15,요청·부탁,Would you like ___?,권유·제공,"상대에게 무엇을 권할 때. 대답은 Yes, please / No, thanks.",2,14,2,16
+A16,요청·부탁,Would it help if I ___?,협조적 도움 제안,상대 부담을 덜어주면서 내 행동을 제안한다.,2,8,0,8
+B17,정보 묻기,What kind of ___?,종류·유형 묻기,선택지를 모를 때 범주부터 묻는다.,2,12,4,16
+B18,정보 묻기,Is it worth ___?,가치 판단 묻기,현지인·전문가의 솔직한 의견을 끌어낸다.,2,10,0,10
+C15,상황 설명·문제 제기,I'm calling about ___ / I'm calling to ___,전화·메시지 목적,통화 첫 문장. 용건을 먼저 말하면 상대가 빨리 연결해 준다.,2,10,0,10
+C16,상황 설명·문제 제기,I'm thinking of ___ing,계획·고려 중,확정 전 의향을 부드럽게 밝힌다.,2,5,4,9
+E14,사교·반응,I'm sorry to hear ___,위로·공감,사과가 아니라 공감. 상대 잘못이 아니어도 쓴다.,2,7,0,7
+E15,사교·반응,Make sure ___ / Don't forget to ___,당부·주의,동료·학생에게 지시를 부드럽게 전한다.,2,22,1,23
+F18,연구 소개·토론,It depends on ___,조건부 답,단정을 피하면서도 정확한 조건을 제시한다.,2,15,9,24
+F19,연구 소개·토론,"The thing is, ___",속사정·핵심 문제 제기,구어에서 본론이나 제약을 꺼낼 때 매우 자연스럽다.,2,13,10,23
+F20,연구 소개·토론,In terms of ___,관점 한정,비교 기준·측면을 먼저 밝히고 말한다.,2,11,6,17
+G10,발표 진행,Let me show you how ___,시연 안내,소프트웨어·절차를 보여줄 때.,2,7,0,7
+G11,발표 진행,"If you ___, you'll see ___",조작·조건 안내,시연·튜토리얼에서 행동과 결과를 연결한다.,2,9,0,9
+J07,좌장·회의·협력,Where are we with ___?,진행 상황 확인,프로젝트·회의에서 상태 점검.,2,6,6,12
+K09,이메일·서면,We are afraid we are unable to ___,서면 거절·불가 통지,공식 서신의 정중한 불가 표현.,2,5,0,5
+A17,요청·부탁,Is there any way ___?,간절한 가능성 타진,규정상 어려운 일을 부탁할 때. Would it be possible보다 절박함이 묻어난다.,3,0,6,6
+B19,정보 묻기,How often ___?,빈도 묻기,"교통 배차, 회의 주기, 측정 주기 등.",3,0,11,11
+B20,정보 묻기,How far ___? / How close ___?,거리·근접 정도 묻기,"도보 거리, 숙소와 회의장 간격 등.",3,0,7,7
+C17,상황 설명·문제 제기,I'm (not) used to ___,익숙함·적응 표현,be used to + 명사/동명사. used to + 동사원형(과거 습관)과 구분해야 한다.,3,0,12,12
+E16,사교·반응,I can't wait to ___ / I'm looking forward to ___,기대 표현,looking forward to 뒤에는 동명사.,3,0,6,6
+F21,연구 소개·토론,Assuming (that) ___,가정 제시,분석의 전제를 먼저 밝혀 반론의 여지를 줄인다.,3,0,14,14
+F22,연구 소개·토론,To what extent ___?,정도 질문,yes/no 대신 정도를 물어 토론을 연다. 학회 질문의 고급 문형.,3,0,12,12
+G12,발표 진행,"To put this in context, ___",맥락화,수치를 청중이 체감할 기준과 연결한다.,3,0,11,11
+H09,질의응답,Let me get back to you on ___,답변 보류·후속 약속,즉답 대신 정확성을 택할 때.,3,0,6,6
+K10,이메일·서면,Just a quick note to ___,짧은 메일 도입,가벼운 공지·감사·확인 메일의 첫 문장.,3,0,6,6
